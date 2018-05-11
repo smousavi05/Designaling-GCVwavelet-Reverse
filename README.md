@@ -10,6 +10,8 @@ and
 analysis. SEG Technical Program Expanded Abstracts 2016: pp. 2632-2636. doi: 10.1190/segam2016-
 13262278.1"
 
+## demo.m includes all info you need to know for running the code 
+
 ## Papers
 (https://www.researchgate.net/publication/315917772_Automatic_noise-removalsignal-removal_based_on_general_cross-validation_thresholding_in_synchrosqueezed_domain_and_its_application_on_earthquake_data)
 
