@@ -1,17 +1,16 @@
 # General-Cross-Validation Designaling
-=====================================================
 
 This repository contains MATLAB scripts and sample seismic data for appying seismid denoising proposed in:
 
-"Mousavi, S. M., and C. A. Langston (2017). Automatic Noise-Removal/Signal-Removal Based on the
+`Mousavi, S. M., and C. A. Langston (2017). Automatic Noise-Removal/Signal-Removal Based on the
 General-Cross-Validation Thresholding in Synchrosqueezed domains, and its application on earthquake data,
-Geophysics.82(4), V211-V227 doi: 10.1190/geo2016-0433.1"
+Geophysics.82(4), V211-V227 doi: 10.1190/geo2016-0433.1`
 
 and 
 
-"Mousavi, S. M., and C. A. Langston, (2016a). Fast and novel microseismic detection using time-frequency
+`Mousavi, S. M., and C. A. Langston, (2016a). Fast and novel microseismic detection using time-frequency
 analysis. SEG Technical Program Expanded Abstracts 2016: pp. 2632-2636. doi: 10.1190/segam2016-
-13262278.1"
+13262278.1`
 
 
 `demo.m` includes all info you need to know for running the code. 
@@ -25,6 +24,8 @@ you need `MATLAB statistics and signal processing toolbox` to run this code.
 
 ## Talk 
 (https://earthquake.usgs.gov/contactus/menlo/seminars/1093)
+
+-----------------------
 
 ## Abstract 
 Recorded seismic signals are often corrupted by noise. An automatic noise attenuation method for single-channel seismic data is presented, based upon high-resolution time-frequency analysis. Synchrosqueezing is a time-frequency reassignment method aimed at sharpening a time–frequency picture. Noise can be distinguished from the signal and attenuated more easily in this reassigned domain. The threshold level is estimated using a general cross validation approach that does not rely on any prior knowledge about the noise level. Efficiency of thresholding has been improved by adding a pre-processing step based on Kurtosis measurement and a post-processing step based on adaptive hard-thresholding. The proposed algorithm can either attenuate the noise (either white or colored) keeping the signal or remove the signal and keep the noise. Hence, it can be used in either normal denoising applications or pre-processing in ambient noise studies. We test the performance of the proposed method on synthetic, microseismic, and earthquake seismograms.
