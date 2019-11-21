@@ -1,4 +1,4 @@
-# General-Cross-Validation Designaling       
+# General-Cross-Validation Designaling             
 
 This repository contains MATLAB scripts and sample seismic data for appying seismid denoising proposed in:
 
