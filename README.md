@@ -1,4 +1,6 @@
-# General-Cross-Validation Designaling                    
+# General-Cross-Validation Designaling   
+
+-----------------------------------------
 
 This repository contains MATLAB scripts and sample seismic data for appying seismid denoising proposed in:
 
@@ -6,11 +8,31 @@ This repository contains MATLAB scripts and sample seismic data for appying seis
 General-Cross-Validation Thresholding in Synchrosqueezed domains, and its application on earthquake data,
 Geophysics.82(4), V211-V227 doi: 10.1190/geo2016-0433.1`
 
+    @article{mousavi2017automatic,
+      title={Automatic noise-removal/signal-removal based on general cross-validation thresholding in synchrosqueezed domain and its application on earthquake data},
+      author={Mousavi, S Mostafa and Langston, Charles A},
+      journal={Geophysics},
+      volume={82},
+      number={4},
+      pages={V211--V227},
+      year={2017},
+      publisher={Society of Exploration Geophysicists}
+    }
+
 and 
 
 `Mousavi, S. M., and C. A. Langston, (2016a). Fast and novel microseismic detection using time-frequency
 analysis. SEG Technical Program Expanded Abstracts 2016: pp. 2632-2636. doi: 10.1190/segam2016-
 13262278.1`
+
+    @incollection{mousavi2016fast,
+      title={Fast and novel microseismic detection using time-frequency analysis},
+      author={Mousavi, Seyed Mostafa and Langston, Charles},
+      booktitle={SEG Technical Program Expanded Abstracts 2016},
+      pages={2632--2636},
+      year={2016},
+      publisher={Society of Exploration Geophysicists}
+    }
 
 ------------------------------------------
 
