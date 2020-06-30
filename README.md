@@ -1,6 +1,12 @@
 # General-Cross-Validation Designaling   
-
 -----------------------------------------
+
+![GitHub last commit](https://img.shields.io/github/last-commit/smousavi05/Designaling-GCVwavelet-Reverse?style=plastic)
+![GitHub stars](https://img.shields.io/github/stars/smousavi05/Designaling-GCVwavelet-Reverse?style=social)
+![GitHub followers](https://img.shields.io/github/followers/smousavi05?style=social)
+![GitHub forks](https://img.shields.io/github/forks/smousavi05/Designaling-GCVwavelet-Reverse?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/smousavi05/Designaling-GCVwavelet-Reverse?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/smousavi05?style=social)
 
 This repository contains MATLAB scripts and sample seismic data for appying seismid denoising proposed in:
 
